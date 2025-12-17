@@ -53,9 +53,3 @@
 </p>
 
 ---
-
-## 📬 Contact
-
-- **LinkedIn:** [🔗](https://linkedin.com/in/caner-göktaş-871827351)  
-- **Email:** [📧](mailto:canerggoktas@gmail.com)  
-- **Portfolio:** [🌐](https://vulnerless.github.io/)  
